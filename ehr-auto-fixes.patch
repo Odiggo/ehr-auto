@@ -1,4 +1,0 @@
-git apply ehr-auto-fixes.patch
-git add -A
-git commit -m "fix: remove hardcoded creds, use browser fixture, event-based waits, add cleanup"
-git push origin fix/security-and-quality-improvements
