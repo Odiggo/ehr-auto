@@ -1,0 +1,117 @@
+Doctor: Hi, come on in. What seems to be the problem today?
+Patient: Hi Doctor. For the last few days I’ve been having this constant dull headache that won’t really go away. It’s not severe, but it’s annoying and distracting.
+
+Doctor: I’m sorry to hear that. How long has it been happening exactly?
+Patient: About five or six days now. It started kind of mild and I thought it would go away on its own, but it keeps coming back every day.
+
+Doctor: Is the headache there all day or does it come and go?
+Patient: It’s pretty much there all day. Sometimes it gets a little worse in the afternoon, especially when I’m working.
+
+Doctor: Where on your head do you feel the pain?
+Patient: Mostly across my forehead and temples. Sometimes it kind of wraps around to the back of my head, almost like a tight band.
+
+Doctor: That description is helpful. Does it feel like a throbbing pain or more of a pressure?
+Patient: More pressure than throbbing. It’s not stabbing or anything. Just a steady pressure.
+
+Doctor: Any sensitivity to light or sound?
+Patient: Not really. Bright lights don’t hurt it, and sound doesn’t bother me more than usual.
+
+Doctor: Any nausea or vomiting with the headaches?
+Patient: No, none of that.
+
+Doctor: Have you been sick recently? Any cold, fever, or sinus problems?
+Patient: Not sick, but I’ve had a little nasal congestion here and there. Just mild stuff.
+
+Doctor: Do you feel the headache gets worse when you bend over or move your head?
+Patient: Maybe slightly, but not dramatically.
+
+Doctor: Any issues with your vision—blurry vision, double vision, flashes of light?
+Patient: No, nothing like that.
+
+Doctor: Have you ever had headaches like this before?
+Patient: I’ve had the occasional headache like anyone, but nothing that lasted this many days in a row.
+
+Doctor: Let’s talk about stress and sleep. How has your stress level been lately?
+Patient: Pretty high, actually. Work has been chaotic, long hours, and a bunch of deadlines. I’ve been sleeping about five hours a night, maybe six on a good night.
+
+Doctor: Lack of sleep and high stress are major triggers for what we call tension headaches. Do you find yourself clenching your jaw or tightening your neck and shoulders?
+Patient: Yes, my shoulders have felt really tight. And my partner told me I sometimes clench my jaw at night.
+
+Doctor: That fits well with tension-type headaches. They often feel like a “band” of pressure around the head and are linked with muscle tension, poor sleep, and stress.
+
+Patient: That sounds exactly like what I’m feeling.
+
+Doctor: Have you taken anything for the headache—ibuprofen, acetaminophen, anything like that?
+Patient: I’ve taken ibuprofen maybe twice. It helped a bit, but the headache came back later.
+
+Doctor: Any caffeine intake lately? More or less than usual?
+Patient: I’ve been drinking more coffee than usual—like three or four cups a day—to stay awake with all the work.
+
+Doctor: Caffeine can help headaches in small amounts, but too much or inconsistent intake can actually make them worse.
+
+Patient: That might be part of it then.
+
+Doctor: Let me check your vital signs and do a quick exam.
+Patient: Okay.
+
+Doctor: Your blood pressure looks fine, your neuro exam is normal, and the muscles in your neck and shoulders are very tight. That supports the diagnosis of a tension headache rather than something more serious.
+
+Patient: That’s reassuring. I was worried it might be something serious.
+
+Doctor: Understandable. But your symptoms don’t fit dangerous causes. Now let’s talk about treatment. The good news is tension headaches respond well to simple measures.
+
+Patient: Great, I’m ready to try anything.
+
+Doctor: First, for medication:
+	•	You can take ibuprofen 400–600 mg every 6–8 hours as needed, or
+	•	Acetaminophen 500–1000 mg every 6 hours as an alternative.
+Either is safe for short-term use as long as you follow the dosing guidelines.
+
+Patient: Which one do you recommend?
+
+Doctor: Since it felt somewhat better with ibuprofen before, you can use ibuprofen for a few days—just stay under 2400 mg per day and always take it with food.
+
+Patient: Okay.
+
+Doctor: Second, muscle relaxation helps a lot. Try applying a warm compress to your neck and shoulders for 10–15 minutes and gently stretching your neck throughout the day.
+
+Patient: I can do that.
+
+Doctor: Third, hydration matters. Are you drinking enough water?
+Patient: Probably not. I mostly drank coffee the last week.
+
+Doctor: Try drinking at least 6–8 glasses of water a day. Dehydration can also trigger headaches.
+
+Patient: Yeah, that makes sense.
+
+Doctor: Fourth, sleep. Your body needs more rest. Even getting to 7 hours a night can significantly reduce headache frequency.
+
+Patient: I’ll try to make that happen.
+
+Doctor: Lastly, reducing caffeine gradually—don’t stop suddenly or it can actually worsen headaches. Start by cutting back one cup during the day over the next few days.
+
+Patient: Good to know.
+
+Doctor: If you want, we can also add a short course of a muscle relaxer, like cyclobenzaprine 5 mg at night, to help ease that neck tension. It can make you drowsy, so only take it before bed.
+
+Patient: That actually sounds helpful. Nights have been rough.
+
+Doctor: Okay, I’ll prescribe a short 7-day supply.
+
+Patient: Thank you.
+
+Doctor: Now for follow-up: I’d like you to check in with me in 10 to 14 days. By then, with better sleep, hydration, stretching, and the medication, these headaches should improve significantly.
+
+Patient: And if they don’t?
+
+Doctor: If they’re still persistent, worsening, or you develop symptoms like severe sudden headache, vision changes, weakness, numbness, vomiting, or confusion, contact me right away. We’d consider imaging if anything unusual appears.
+
+Patient: Got it. But it doesn’t feel like that kind of headache.
+
+Doctor: Right, your symptoms are very consistent with a tension headache. I’m confident you’ll improve.
+
+Patient: Thanks, Doctor. This makes me feel a lot better.
+
+Doctor: You’re welcome. I’ll send in the prescription now, and make sure to start with rest, hydration, reduced caffeine, and daily stretching. I’ll see you soon for follow-up.
+
+Patient: Sounds good. Thank you again.

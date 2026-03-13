@@ -1,0 +1,47 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "## Questions How to get started with playwright? This creates a new project with the dependencies for automation `npm init playwright`",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:voice": "npx playwright test tests/sully-audio-load.spec.ts",
+    "test:convo": "npx playwright test tests/sully-convo-load.spec.ts",
+    "test:prod": "NODE_ENV=production npx playwright test",
+    "test:staging": "NODE_ENV=staging npx playwright test",
+    "test:dev": "NODE_ENV=development npx playwright test",
+    "test:local": "NODE_ENV=local npx playwright test",
+    "test:headed": "NODE_ENV=production npx playwright test --headed",
+    "test:headed:staging": "NODE_ENV=staging npx playwright test --headed",
+    "test:headed:dev": "NODE_ENV=development npx playwright test --headed",
+    "open:report": "npx playwright show-report",
+    "install:browsers": "npx playwright install",
+    "env": "npx ts-node scripts/env-manager.ts",
+    "env:list": "npx ts-node scripts/env-manager.ts list",
+    "env:set": "npx ts-node scripts/env-manager.ts set",
+    "env:info": "npx ts-node scripts/env-manager.ts info",
+    "env:validate": "npx ts-node scripts/env-manager.ts validate",
+    "env:create": "npx ts-node scripts/env-manager.ts create"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.3",
+    "@typescript-eslint/eslint-plugin": "^8.31.1",
+    "@typescript-eslint/parser": "^8.31.1",
+    "eslint": "^9.26.0",
+    "eslint-config-prettier": "^10.1.2",
+    "eslint-plugin-playwright": "^2.2.0",
+    "eslint-plugin-prettier": "^5.4.0",
+    "globals": "^16.0.0",
+    "prettier": "^3.5.3",
+    "ts-node": "^10.9.2",
+    "typescript-eslint": "^8.31.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "exceljs": "^4.4.0"
+  }
+}

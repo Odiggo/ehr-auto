@@ -1,0 +1,83 @@
+Doctor: Hi, come on in. What brings you here today?
+Patient: Hi Doctor. I’ve had this cough for about a week and a half, and it’s not going away. It’s not terrible, but it’s annoying and keeping me up at night.
+
+Doctor: I’m sorry to hear that. Tell me about the cough—does it feel dry or productive?
+Patient: Mostly dry. Sometimes I feel a little bit of mucus, but not much. It’s more of an itchy, tickly cough.
+
+Doctor: When did it start?
+Patient: Maybe ten or eleven days ago. I had a bit of a cold first—runny nose and sore throat—but the cold went away and the cough stayed.
+
+Doctor: Any fever, chills, chest pain, or shortness of breath?
+Patient: No fever or chills. No chest pain either. I do get a little short of breath when the coughing fits happen, but not otherwise.
+
+Doctor: Have you noticed any wheezing or tightness in your chest?
+Patient: A tiny bit of wheezing at night, but only when I lie down.
+
+Doctor: Do you have asthma or any lung conditions?
+Patient: No, nothing like that.
+
+Doctor: Any history of allergies, heartburn, or postnasal drip?
+Patient: I have mild seasonal allergies. I also get a little heartburn sometimes, but not often.
+
+Doctor: Have you been around anyone sick recently?
+Patient: Yes, several coworkers had colds around the same time I did.
+
+Doctor: Any smoking or recent exposure to smoke, dust, or chemicals?
+Patient: No smoking. I did help my friend move some old boxes from his basement last week, lots of dust. The cough was already happening, though.
+
+Doctor: What have you tried so far for the cough?
+Patient: Just some over-the-counter cough syrup and throat lozenges. They help for a bit, then the cough comes back.
+
+Doctor: Any allergies to medications?
+Patient: No allergies.
+
+Doctor: Okay. Let me listen to your lungs.
+Patient: Sure.
+
+Doctor: (Listening) Your lungs sound clear. No signs of pneumonia or anything serious. You do have a little postnasal drip visible in the back of your throat, and your cough pattern matches what we call a post-viral cough—a cough that lingers after a cold. These often last 2–3 weeks, sometimes even four, because the airway stays sensitive and irritated even after the infection is gone.
+
+Patient: So it’s not an infection anymore?
+
+Doctor: Not typically. Most post-viral coughs are not bacterial infections and don’t require antibiotics. Antibiotics wouldn’t help and can cause unnecessary side effects. Instead, we treat the inflammation and dryness causing the cough.
+
+Patient: That makes sense. What can I do to get rid of it?
+
+Doctor: I’d recommend a few things. First, a medication called benzonatate, which suppresses the cough reflex and helps especially at night. You’d take 100 mg three times a day as needed.
+
+Patient: Okay, I’ve never heard of that one.
+
+Doctor: It works differently from regular cough syrup and doesn’t make most people drowsy. Second, because you mentioned some wheezing at night, a short course of an inhaled bronchodilator, such as albuterol, can help calm the airway. You’d use two puffs every 4–6 hours as needed for coughing fits or wheezing.
+
+Patient: So an inhaler?
+
+Doctor: Yes, just for a week or two. It helps open the airways if they’re irritated. You don’t have asthma, but post-viral inflammation can temporarily mimic mild asthma symptoms.
+
+Patient: Okay, that sounds fine.
+
+Doctor: Third, something like cetirizine (Zyrtec) or loratadine (Claritin) can help reduce postnasal drip, which is often the culprit behind lingering coughs. You’d take one pill daily for at least a week.
+
+Patient: I can do that. Anything else?
+
+Doctor: Yes—hydration helps a lot. Drink plenty of water to thin mucus. Use a humidifier at night to reduce throat dryness. Warm tea with honey can soothe the irritation. Avoid cold air and dusty environments until the cough settles.
+
+Patient: That’s easy enough.
+
+Doctor: Now, regarding follow-up: most post-viral coughs improve gradually with treatment. I’d like you to check in with me in two weeks. If the cough is significantly better, great—we continue until it resolves. If the cough isn’t improving or gets worse, we’ll do a chest X-ray and consider other causes like asthma, acid reflux, or sinus issues.
+
+Patient: And if the cough gets worse before then?
+
+Doctor: Call sooner if you develop fever, coughing up thick green or bloody mucus, shortness of breath at rest, chest pain, or if the wheezing becomes persistent. Those would need immediate evaluation.
+
+Patient: Got it. And the benzonatate—any side effects?
+
+Doctor: The most common are mild dizziness or numbness in the throat if the capsule breaks in your mouth, so you must swallow it whole. Do not chew or suck on it. If you take it correctly, most people tolerate it very well.
+
+Patient: Good to know.
+
+Doctor: I’ll send the prescriptions for benzonatate and albuterol to your pharmacy. You can start them today along with a daily antihistamine. With this combination, you should see improvement within a few days, though complete resolution might still take another week or two.
+
+Patient: Thank you, Doctor. This has been really bothering me, so I’m glad it’s nothing serious.
+
+Doctor: You’re welcome. It can be frustrating, but you’re going to be okay. Just follow the plan and let me know if anything changes.
+
+Patient: Will do. Thanks again.

@@ -1,0 +1,168 @@
+Doctor: Hi, come on in. What can I help you with today?
+Patient: Hi Doctor. I actually have a few things going on, and I figured it was time to check in. None of them are emergencies, but they’ve been bothering me.
+
+Doctor: That’s perfectly fine. Let’s go through them one at a time. What’s the first issue?
+Patient: The first thing is this pain in my right wrist. It started maybe two weeks ago. It’s not severe, but it’s sore when I twist it or lift things.
+
+Doctor: Okay. Did you injure it, or did it start gradually?
+Patient: I don’t remember a specific injury, but I’ve been typing a lot more lately, and I also started doing some light weightlifting at home.
+
+Doctor: Does the pain stay in the wrist or shoot up the arm or into the fingers?
+Patient: Mostly stays in the wrist, especially on the thumb side.
+
+Doctor: Any numbness or tingling in your fingers?
+Patient: No, none.
+
+Doctor: Let me take a look.
+Patient: Sure.
+
+Doctor:  I see some mild tenderness over the radial side of the wrist. This looks like tendon irritation, possibly De Quervain’s tendinopathy, which happens from overuse—typing, lifting, repetitive wrist motion.
+
+Patient: Okay, that makes sense.
+
+Doctor: The good news is it usually improves with rest, ice, and anti-inflammatory medication. I recommend ibuprofen 400–600 mg every 6–8 hours, with food, for about 5 days. Also limit lifting and repetitive wrist motions for now.
+
+Patient: Should I wear a brace?
+
+Doctor: A thumb spica wrist brace can help by keeping the tendons stable. Wear it during the day for a week. If it doesn’t improve in 2–3 weeks, we may need physical therapy.
+
+Patient: Alright, that sounds simple enough.
+
+Doctor: Great. What’s the next issue?
+Patient: I’ve also been having some stomach burning after meals. It’s not constant, but maybe three or four times a week, especially after spicy or fatty foods.
+
+Doctor: How long has that been going on?
+Patient: Around a month.
+
+Doctor: Any nausea, vomiting, black stools, or severe abdominal pain?
+Patient: No, nothing like that. Just the burning.
+
+Doctor: Any nighttime symptoms?
+Patient: Sometimes, especially if I eat late.
+
+Doctor: This sounds like acid reflux—also called GERD. It can flare up with food triggers or eating late.
+
+Patient: Yeah, I definitely eat late sometimes.
+
+Doctor: Let’s start with lifestyle changes first:
+	•	Avoid large meals close to bedtime
+	•	Limit spicy, acidic, fatty foods
+	•	Reduce coffee, soda, and alcohol
+	•	Elevate head of bed slightly
+	•	Avoid lying down within 2–3 hours after eating
+
+Patient: I can try that.
+
+Doctor: Medication-wise, I recommend a short trial of famotidine (Pepcid) 20 mg twice daily for 10–14 days to calm the acid. If symptoms persist despite that, we can consider a PPI like omeprazole.
+
+Patient: Alright, I’ll try the famotidine.
+
+Doctor: What’s the third issue you wanted to discuss?
+Patient: I’ve had this lingering sore spot in my left foot, right under the arch. It gets worse after I walk a lot or stand for a long time.
+
+Doctor: How long has that been happening?
+Patient: Maybe three weeks.
+
+Doctor: Does it hurt the most with the first steps in the morning?
+Patient: Yes, actually. That’s exactly when it hurts the most.
+
+Doctor: That’s a classic sign of plantar fasciitis—inflammation of the tissue on the bottom of the foot.
+
+Patient: Oh, I’ve heard of that.
+
+Doctor: Treatment is mostly conservative. Start with:
+	•	Stretching the calf and foot several times a day
+	•	Rolling your foot over a cold water bottle or a tennis ball
+	•	Supportive shoes, avoiding walking barefoot
+	•	Ibuprofen or naproxen as needed for pain
+
+Patient: Could I use the same ibuprofen I’m using for my wrist?
+
+Doctor: Yes, but stay within daily limits—do not exceed 2400 mg/day.
+
+Patient: Should I avoid exercise?
+
+Doctor: Avoid high-impact activities like running until it improves, but walking is okay if it’s not too painful.
+
+Patient: Got it.
+
+Doctor: And what’s the fourth issue?
+Patient: I’ve also been really tired lately. I wake up feeling unrefreshed even after a full night’s sleep.
+
+Doctor: How long has that been happening?
+Patient: Maybe two months.
+
+Doctor: Any snoring, pauses in breathing, or waking up gasping?
+Patient: I don’t think so, but my partner says I snore occasionally.
+
+Doctor: How’s your diet?
+Patient: Honestly, not great. Lots of takeout.
+
+Doctor: How about your stress levels?
+Patient: Pretty high. Work has been overwhelming.
+
+Doctor: Stress, poor diet, mild dehydration, and lack of sleep can all contribute to fatigue. But we should still check some labs to rule out common causes such as anemia, thyroid issues, or vitamin deficiencies.
+
+Patient: Yeah, that would be good.
+
+Doctor: I’ll order blood work for CBC, thyroid function, vitamin D, and B12, just to be thorough.
+
+Patient: Sounds good.
+
+Doctor: Any other symptoms—fever, weight changes, hair loss, new medications?
+Patient: No, nothing like that.
+
+Doctor: Have you been exercising regularly?
+Patient: Not really, maybe once a week.
+
+Doctor: Increasing activity can help improve energy, but we’ll start with identifying anything medical first.
+
+Patient: Makes sense.
+
+Doctor: Anything else on your list?
+Patient: Yes, actually. I’ve had some itchy patches on my elbows. They come and go.
+
+Doctor: How long have you had that?
+Patient: On and off for a year, but lately it’s been acting up.
+
+Doctor: What do the patches look like?
+Patient: Dry, slightly red, sometimes flaky.
+
+Doctor: That sounds like eczema—also known as atopic dermatitis.
+
+Patient: Is that serious?
+
+Doctor: Not usually. It’s common and manageable. Treatment includes:
+	•	Daily moisturizing with thick creams
+	•	Avoiding hot showers
+	•	Avoiding scented soaps or detergents
+	•	And when it flares: hydrocortisone 1% cream twice daily for 5–7 days
+
+Patient: I’ve seen hydrocortisone at the store. So I just grab that?
+
+Doctor: Yes, start with the over-the-counter version.
+
+Patient: Okay.
+
+Doctor: Let me summarize everything:
+	1.	Right wrist tendonitis → Rest, brace, ibuprofen, avoid repetitive motions, follow up if not better in 2–3 weeks.
+	2.	Acid reflux → Diet changes + famotidine 20 mg twice daily for 10–14 days, follow up if persistent.
+	3.	Plantar fasciitis → Stretching, supportive shoes, icing, NSAIDs, follow up if not improving in 3–4 weeks.
+	4.	Fatigue → Bloodwork ordered; improve hydration, nutrition, and sleep; follow up in 2 weeks to review results.
+	5.	Eczema patches → Moisturizer + hydrocortisone cream during flares; follow up if spreading or worsening.
+
+Patient: Wow, that’s a lot, but I’m glad we went through everything.
+
+Doctor: It’s good to address things early before they get worse.
+
+Patient: What about follow-up visits overall?
+
+Doctor: Here’s what I recommend:
+	•	2 weeks: Follow-up on fatigue and see how reflux is responding
+	•	3 weeks: Quick check on the wrist if still sore
+	•	4 weeks: Check on the plantar fasciitis if not improving
+	•	Anytime: Contact me sooner if symptoms worsen, or new issues come up
+
+Patient: Sounds good. Thanks for taking the time today.
+
+Doctor: You’re welcome. I’d rather go through everything at once so nothing gets missed. Let me know how you’re doing over the next couple of weeks.

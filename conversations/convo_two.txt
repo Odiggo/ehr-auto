@@ -1,0 +1,99 @@
+Doctor: Hi there, come on in. What’s going on today?
+Patient: Hi Doctor. I’ve been dealing with nonstop sneezing, itchy eyes, and a runny nose for about two weeks. It feels like allergies, but it’s worse than usual.
+
+Doctor: I see. When exactly did the symptoms start, and have they been constant or do they come and go?
+Patient: They started maybe twelve days ago. At first it was occasional sneezing, but now it’s every morning and most of the day. My eyes are watery almost all the time.
+
+Doctor: Have you noticed if it’s worse at specific times—like mornings, evenings, or when you’re outdoors?
+Patient: Definitely worse in the morning as soon as I get out of bed. It also gets worse when I’m outside, especially near trees or if I’m walking through grass.
+
+Doctor: Any recent changes in your home environment—new pets, new cleaning products, open windows, anything like that?
+Patient: No new pets. We did start leaving the windows open at night because it’s been warm, so maybe that’s part of it.
+
+Doctor: That definitely could be contributing. Any cough, shortness of breath, or chest tightness?
+Patient: No chest issues, just a little throat irritation from all the drainage.
+
+Doctor: Any fever, facial pain, or thick yellow-green mucus?
+Patient: No fever. Sometimes the mucus is clear, sometimes a little cloudy, but nothing heavy or green.
+
+Doctor: Do you have a history of seasonal allergies or allergic rhinitis?
+Patient: Yes, I get allergies every spring, but this year it’s hitting harder. Usually antihistamines help, but lately they haven’t done much.
+
+Doctor: Which antihistamines have you tried?
+Patient: I tried Claritin for a week and then switched to Zyrtec for a few days. They help a little, but symptoms come right back.
+
+Doctor: Have you tried any nasal sprays before—like Flonase or Nasonex?
+Patient: I used Flonase a couple years ago but not recently.
+
+Doctor: Any allergy shots in the past?
+Patient: No, never.
+
+Doctor: Okay. And any asthma or eczema?
+Patient: No asthma. I had mild eczema as a kid but it hasn’t bothered me in years.
+
+Doctor: Any family history of severe allergies?
+Patient: My mom has spring allergies and takes nasal sprays. My sister gets bad hay fever.
+
+Doctor: That fits the pattern. Based on your symptoms, timing, and triggers, this sounds like seasonal allergic rhinitis, likely from pollen exposure. Pollen counts have been especially high recently. When you keep the windows open at night, pollen can circulate in your bedroom and cause morning symptoms. That may explain why your symptoms spike as soon as you wake up.
+
+Patient: Yeah, I didn’t think of that.
+
+Doctor: Let’s talk about treatment options. Since oral antihistamines alone haven’t been enough, the best next step is to use a nasal corticosteroid spray, such as fluticasone (Flonase) or mometasone (Nasonex). They reduce inflammation directly in the nose and are more effective than pills for congestion and drainage. You would use it once daily. It may take a few days to notice a big improvement, but many people feel better within 24–48 hours.
+
+Patient: Okay, I can do that. Can I still take Zyrtec with it?
+
+Doctor: Yes, absolutely. Combining a nasal steroid spray with an oral antihistamine is a common approach when symptoms are more severe. You can take cetirizine (Zyrtec) 10 mg once daily and use Flonase one spray in each nostril twice a day for the first week, then once a day after that.
+
+Patient: That sounds manageable.
+
+Doctor: In addition, if your eyes are very itchy and watery, I can recommend ketotifen eye drops, available over the counter. Use them once in the morning and again if needed in the evening.
+
+Patient: My eyes are really bothering me, so that might help.
+
+Doctor: Definitely. Also, let’s talk about environmental control. Even though it takes effort, these changes can dramatically reduce symptoms:
+	•	Keep windows closed during high-pollen days.
+	•	Use air conditioning instead of outdoor air.
+	•	Shower and change clothes after being outside to remove pollen.
+	•	Rinse your nose with saline once or twice a day to wash allergens out.
+
+Patient: I can try all of those. Keeping the windows closed is easy enough.
+
+Doctor: Great. Another option, if symptoms remain bothersome after a few weeks, is adding a leukotriene inhibitor, such as montelukast, but we usually try nasal steroids and antihistamines first.
+
+Patient: I’d prefer to stick to the basics for now.
+
+Doctor: That’s completely reasonable. Most people improve significantly with nasal corticosteroids and avoidance measures.
+
+Patient: Any side effects I should watch for with the nasal spray?
+
+Doctor: The most common side effects are mild dryness, slight nose irritation, or a little nosebleeding, especially if the spray is aimed incorrectly. Make sure to aim the spray slightly outward, towards the outer wall of the nostril—not straight up or toward the center. If you do that, side effects are minimal.
+
+Patient: Good to know. I didn’t realize technique mattered.
+
+Doctor: It does. I can show you the correct angle before you go.
+
+Patient: Okay.
+
+Doctor: Now let’s talk follow-up. I’d like you to use Flonase daily and continue Zyrtec for at least two weeks. Symptoms should start improving within a few days, but full benefit takes about two weeks. If you’re not significantly better in three weeks, let me know. We can either adjust the dose, switch medications, or consider a referral to an allergist for testing.
+
+Patient: And if it does get better?
+
+Doctor: Then you can continue the nasal spray through the heavy pollen season. Many people only need it during spring and fall. Once allergy season settles down, you can decrease to once every other day or stop if you’re doing well.
+
+Patient: That makes sense.
+
+Doctor: One more thing—if at any point you develop wheezing, shortness of breath, chest tightness, or a persistent cough that feels like it’s coming from the chest rather than the throat, that could indicate allergic asthma. If that happens, let me know immediately.
+
+Patient: Got it. But right now it’s just in my nose and eyes.
+
+Doctor: Good. Then the plan is straightforward. I’ll send a prescription for fluticasone nasal spray to your pharmacy. You can continue Zyrtec daily, add ketotifen eye drops if needed, and start minimizing pollen exposure at home.
+
+Patient: Sounds perfect. I’m relieved I came in.
+
+Doctor: I’m glad you did. Allergies can really affect quality of life, but with the right treatment you should feel much better soon.
+
+Patient: Thank you, Doctor.
+
+Doctor: You’re welcome. Let’s schedule a follow-up in three to four weeks to make sure your symptoms are improving. If they get worse or you develop new symptoms before then, just call.
+
+Patient: Will do. Thanks again.

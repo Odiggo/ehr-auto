@@ -1,0 +1,9 @@
+// this is needed to read data from json files to a var
+// Allows this "import LoginData from "../fixtures/requests/loginPayload.json";"
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "esModuleInterop": true
+  },
+  "include": ["**/*.ts", "**/*.json"] // make sure JSON files are included
+}

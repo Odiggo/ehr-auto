@@ -1,0 +1,20 @@
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Environment files (keep .env.example)
+.env
+.env.local
+.env.*.local
+
+# Screenshots and videos from tests (ignore root level, but allow in screenshots folder)
+*.png
+*.webm
+*.mp4
+!screenshots/*.png
+
+# macOS system files
+.DS_Store

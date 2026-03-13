@@ -1,0 +1,124 @@
+Doctor: Hi, come on in. What seems to be troubling you today?
+Patient: Hi Doctor. For the past five days, I’ve been having this really uncomfortable bloating in my stomach. It feels like I’m full of air, even when I haven’t eaten much.
+
+Doctor: I see. When did you first notice the bloating?
+Patient: It started maybe last Thursday. At first it was mild—just a little pressure. But now it’s happening after almost every meal, even small ones.
+
+Doctor: Is the bloating constant, or does it come and go?
+Patient: It comes and goes, but usually worse in the afternoon and evening. Mornings are a bit better.
+
+Doctor: Any nausea, vomiting, or abdominal pain?
+Patient: No vomiting. I did feel slightly nauseous twice, but not enough to throw up. I wouldn’t call it pain—more like pressure and discomfort.
+
+Doctor: Any diarrhea or constipation?
+Patient: Constipation, actually. I’ve only had a couple of bowel movements in the past four days. They were small and hard.
+
+Doctor: Any changes in your diet recently—new foods, more dairy, spicy foods, high-fat meals?
+Patient: Well, I’ve been eating more takeout lately. Work got busy and I haven’t been cooking. Lots of sandwiches, pizza, and fast meals.
+
+Doctor: That kind of diet can definitely affect digestion. Have you been drinking enough water?
+Patient: Probably not. Mostly coffee during the day and maybe a soda or two.
+
+Doctor: That may contribute to the constipation and bloating. Have you noticed if certain foods trigger the bloating more?
+Patient: Yeah—bread and pasta especially. Sometimes dairy too.
+
+Doctor: Any history of food intolerances, like lactose intolerance?
+Patient: Not officially, but I’ve sometimes suspected dairy might bother me.
+
+Doctor: Any fever, blood in your stool, or weight loss?
+Patient: No fever, no blood, and no weight loss.
+
+Doctor: How stressed have you been lately?
+Patient: Pretty stressed. Work deadlines, not sleeping much, eating on the go.
+
+Doctor: Stress can also slow digestion and cause bloating and constipation.
+
+Patient: That makes sense. I didn’t think about that.
+
+Doctor: Have you taken any medications recently—antibiotics, painkillers, supplements?
+Patient: I took ibuprofen a few times last week for a headache. Other than that, nothing.
+
+Doctor: Any abdominal surgeries in the past?
+Patient: Nope.
+
+Doctor: Alright, let me examine your abdomen.
+Patient: Okay.
+
+Doctor: (Examining) Your abdomen is mildly distended, but soft. No masses, no tenderness, and bowel sounds are present. This is consistent with functional bloating and constipation, likely from a combination of diet changes, dehydration, and stress.
+
+Patient: So nothing serious?
+
+Doctor: No signs of anything dangerous. Most likely you’re experiencing constipation-related bloating, sometimes called slow-transit constipation. When stool builds up in the colon, gas builds up too, causing that pressure and fullness.
+
+Patient: That definitely feels like what’s happening.
+
+Doctor: Let’s talk about treatment. I recommend a three-part approach.
+
+Patient: Okay, I’m listening.
+
+Doctor: First, hydration. Increase water intake to 6–8 glasses a day. Coffee and soda don’t count—they can dehydrate you.
+
+Patient: I can do that.
+
+Doctor: Second, dietary changes for the next week:
+	•	Add more fiber—fruits, vegetables, oats, whole grains
+	•	Cut down processed foods
+	•	Avoid large portions of bread and pasta temporarily
+	•	Avoid carbonated drinks, which add gas
+
+Patient: Got it.
+
+Doctor: Third, medication. I recommend starting polyethylene glycol (MiraLAX). It’s a gentle osmotic laxative that helps draw water into the intestines to soften stool. Take 17 grams (one capful) in a glass of water once daily for 5–7 days.
+
+Patient: Will it make me run to the bathroom?
+
+Doctor: It’s usually very gentle. It softens things gradually, not suddenly. Most people tolerate it well. If stools get too loose, just cut the dose in half.
+
+Patient: Okay, that sounds manageable.
+
+Doctor: You can also use simethicone (Gas-X) as needed for gas pressure; it helps break up gas bubbles.
+
+Patient: I’ve heard of that one. I can pick it up today.
+
+Doctor: In addition, taking a probiotic daily for the next couple of weeks may help regulate digestion and reduce bloating. Something like Lactobacillus or Bifidobacterium strains.
+
+Patient: Sure, I can try that.
+
+Doctor: Finally, light movement helps digestion. A daily 15–20 minute walk can really make a difference.
+
+Patient: I definitely haven’t been moving much lately.
+
+Doctor: That’s very common when people get busy. But movement stimulates the intestines to work more efficiently.
+
+Patient: Okay. So increase water, take MiraLAX, eat better, move more.
+
+Doctor: Exactly. I’d like you to follow this plan and check back with me in 7–10 days. By then, the bloating should be much better.
+
+Patient: And if it isn’t?
+
+Doctor: If symptoms persist after a week, we can explore additional tests such as:
+	•	Bloodwork for anemia, thyroid issues
+	•	Testing for celiac disease
+	•	Stool studies
+	•	And if the symptoms linger beyond several weeks, possibly an abdominal ultrasound
+
+But I don’t think you’ll need those. Your symptoms match constipation-related bloating very clearly.
+
+Patient: That makes me feel better.
+
+Doctor: Good. Also, contact me sooner if you develop:
+	•	Severe abdominal pain
+	•	Fever
+	•	Vomiting
+	•	Inability to pass gas or stool
+	•	Blood in the stool
+
+Patient: Understood.
+
+Doctor: So I’ll send in the MiraLAX recommendation to your chart, but you can buy it over the counter. Start tonight, drink plenty of water, and begin the dietary changes tomorrow.
+
+Patient: Will do. Thanks for all the help.
+
+Doctor: You’re welcome. You should feel improvement within a few days, and I’ll see you in about a week for follow-up.
+
+Patient: Sounds good. Thank you, Doctor.

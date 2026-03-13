@@ -1,0 +1,110 @@
+Doctor: Hi, come on in. What’s been bothering you?
+Patient: Hi Doctor. For the past week I’ve been having this weird ear fullness on my right side. It isn’t painful exactly, but it feels clogged, like there’s pressure in there that won’t go away.
+
+Doctor: I see. When did you first notice the feeling of fullness?
+Patient: About seven days ago. It started off really mild, just a little muffled feeling after I woke up. But each day it’s felt a little more clogged.
+
+Doctor: Has the hearing in that ear changed—like does it sound muffled or like sound is farther away?
+Patient: Yeah, exactly. Everything through that ear sounds dull, like someone stuffed cotton in it.
+
+Doctor: Any pain, ringing, or popping noises?
+Patient: No ringing. I get popping when I swallow sometimes, but it doesn’t completely clear it.
+
+Doctor: Any drainage from the ear—fluid, wax, anything unusual?
+Patient: No drainage at all.
+
+Doctor: Have you had any cold or sinus symptoms recently—runny nose, congestion, sneezing?
+Patient: Yes actually. Two weeks ago I had a mild cold—stuffy nose, slight sore throat. That mostly went away, but the ear thing stuck around.
+
+Doctor: That’s helpful. Any recent flying, swimming, scuba diving, or altitude changes?
+Patient: No flying or diving. I did shower and wash my hair a few times, of course, but nothing unusual.
+
+Doctor: Any history of allergies?
+Patient: Mild spring allergies, but nothing too serious.
+
+Doctor: Do you clench your jaw or grind your teeth at night?
+Patient: I’m not sure. My partner says I sometimes grind my teeth a little, but I’ve never been diagnosed with TMJ problems.
+
+Doctor: Any fever or general feeling of being sick?
+Patient: No fever. I feel totally normal except for the weird ear sensation.
+
+Doctor: Good. Now let me ask—when you yawn or swallow, does the pressure change at all?
+Patient: Yeah, slightly. When I yawn, sometimes it feels like it might open, but it immediately goes back to being clogged.
+
+Doctor: And any dizziness or balance issues?
+Patient: No dizziness at all.
+
+Doctor: Alright, let me take a look at the ear.
+Patient: Sure.
+
+Doctor: (Examining) Okay, the ear canal looks normal—no signs of infection or wax blockage. The eardrum is intact but looks slightly retracted, like it’s being pulled inward. That usually means the Eustachian tube—the tube that connects the middle ear to the back of the throat—isn’t equalizing pressure well. It’s very common after a cold.
+
+Patient: So it’s not infected?
+
+Doctor: No, there’s no sign of an ear infection. What you’re describing is most consistent with Eustachian tube dysfunction, often abbreviated ETD. It happens when congestion from a cold or allergies causes the tube to swell or get sticky, so pressure can’t balance properly.
+
+Patient: That makes sense, because it really does feel like pressure.
+
+Doctor: Exactly. The pressure makes the eardrum pull inward, which causes muffled hearing and that clogged feeling. It can be annoying, but it’s usually temporary.
+
+Patient: How long does it normally last?
+
+Doctor: For some people, a few days. For others, up to a few weeks. It typically resolves once the inflammation behind the nose clears.
+
+Patient: Is there anything I can do to speed it up?
+
+Doctor: Yes, a few things. First, I’m going to recommend starting an intranasal steroid spray, like fluticasone (Flonase). It reduces inflammation near the Eustachian tube opening. Use two sprays in each nostril once a day. It doesn’t work immediately—it builds up over several days—but it’s very effective.
+
+Patient: Okay. I’ve used Flonase before for allergies.
+
+Doctor: Then it should be familiar. Next, you can use a daily antihistamine such as cetirizine (Zyrtec) or loratadine (Claritin), especially since you mentioned mild allergies.
+
+Patient: I actually have some cetirizine at home.
+
+Doctor: Perfect. Take one daily for at least a week or two. Also, try Valsalva maneuvers—that’s where you pinch your nose, close your mouth, and gently blow to pop your ears. Don’t blow too hard—just gentle pressure. Do this a few times a day if it helps.
+
+Patient: I’ve tried popping it a bit but I wasn’t sure if that was safe.
+
+Doctor: It’s safe as long as you don’t overdo it. You should also avoid flying or diving until it’s better, but it sounds like that’s not an issue for you.
+
+Patient: Nope, no flights planned.
+
+Doctor: Great. Other helpful things:
+	•	Warm compress on the side of your face
+	•	Staying well-hydrated
+	•	Avoiding large swings in altitude
+	•	Sleeping with your head slightly elevated
+
+Patient: Should I avoid blowing my nose?
+
+Doctor: Blow gently if needed, but don’t force it. Aggressive blowing can make pressure worse.
+
+Patient: Will antibiotics help?
+
+Doctor: No, not in this case. ETD is not caused by bacteria; it’s caused by swelling and pressure imbalance. Antibiotics wouldn’t help and could cause side effects.
+
+Patient: Okay, good to know.
+
+Doctor: One more thing—sometimes a short course of a decongestant like pseudoephedrine can help if you’re congested. But only take it if you don’t have high blood pressure, heart issues, or trouble sleeping.
+
+Patient: My blood pressure is normal, so I think I’m okay. Should I take that too?
+
+Doctor: You can take pseudoephedrine for 2–3 days only, just to see if it helps open things up. Use sparingly. Most of your improvement should come from the nasal steroid spray over time.
+
+Patient: Got it.
+
+Doctor: Now, for follow-up. I want you to try this treatment plan and keep an eye on the symptoms. If the clogged feeling is improving gradually over the next 2–3 weeks, that’s expected. ETD can be slow to resolve.
+
+Patient: And if it doesn’t improve?
+
+Doctor: If there’s no improvement at all after 4–6 weeks, or if you develop new symptoms like severe pain, persistent dizziness, fever, or sudden hearing loss, I want you to come back. At that point, we might refer you to an ENT specialist for a hearing test and possibly other interventions like ear insufflation or more specialized therapy.
+
+Patient: Okay, that sounds reasonable.
+
+Doctor: The vast majority of people recover fully with the conservative treatment we’re starting today. I’ll also send a prescription—or you can use the over-the-counter version—of Flonase and recommend daily cetirizine.
+
+Patient: Thank you. It really helps to know it’s not something serious.
+
+Doctor: You’re welcome. It’s uncomfortable but very common after a cold. Stay consistent with the nasal spray and antihistamine, and call if anything worsens.
+
+Patient: I will. Thanks again, Doctor.
