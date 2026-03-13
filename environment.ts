@@ -11,10 +11,6 @@ export const environment = {
   devUrl: process.env.DEV_URL || 'https://dev.sully.ai',
   localUrl: process.env.LOCAL_URL || 'http://localhost:3000',
   
-  // Test user credentials
-  testUserEmail: process.env.USER_EMAIL || 'razeen+v2@sully.ai',
-  testUserPassword: process.env.USER_PASSWORD || 'plmokn7@A',
-  
   // Test configuration
   testTimeout: parseInt(process.env.TEST_TIMEOUT || '130000'),
   headless: process.env.HEADLESS === 'true',
@@ -29,12 +25,6 @@ export const environment = {
   isDevelopment: env === 'development',
   isLocal: env === 'local'
 };
-
-// Get test user credentials
-export const getTestCredentials = () => ({
-  email: environment.testUserEmail,
-  password: environment.testUserPassword
-});
 
 // Get base URL based on environment
 export const getBaseUrl = () => {
@@ -68,8 +58,7 @@ export const isLocal = () => environment.isLocal;
 export const getTestConfig = () => ({
   timeout: environment.testTimeout,
   headless: environment.headless,
-  baseUrl: getBaseUrl(),
-  credentials: getTestCredentials()
+  baseUrl: getBaseUrl()
 });
 
 // Print current environment info
@@ -79,7 +68,6 @@ export const printEnvironmentInfo = () => {
   console.log(`   Base URL: ${getBaseUrl()}`);
   console.log(`   Test Timeout: ${environment.testTimeout}ms`);
   console.log(`   Headless Mode: ${environment.headless}`);
-  console.log(`   Test User: ${environment.testUserEmail}`);
   if (environment.apiKey) {
     console.log(`   API Key: ${'*'.repeat(environment.apiKey.length - 4)}${environment.apiKey.slice(-4)}`);
   }

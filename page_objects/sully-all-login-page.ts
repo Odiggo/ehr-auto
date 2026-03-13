@@ -1,5 +1,5 @@
 import { Page, Locator, expect } from '@playwright/test';
-import { getTestCredentials, getBaseUrl } from '../environment';
+import { getBaseUrl } from '../environment';
 
 export class SullyAILoginPage {
     readonly page: Page;
@@ -201,12 +201,16 @@ export class SullyAILoginPage {
     }
 
     /**
-     * Login with test credentials from environment
+     * Login with test credentials from environment variables (USER_EMAIL, USER_PASSWORD)
      */
     async loginWithTestCredentials(): Promise<void> {
-        const credentials = getTestCredentials();
-        console.log(`🧪 Logging in with test credentials: ${credentials.email}`);
-        await this.login(credentials.email, credentials.password);
+        const email = process.env.USER_EMAIL;
+        const password = process.env.USER_PASSWORD;
+        if (!email || !password) {
+            throw new Error('USER_EMAIL and USER_PASSWORD environment variables must be set');
+        }
+        console.log(`🧪 Logging in with test credentials: ${email}`);
+        await this.login(email, password);
     }
 
     /**
